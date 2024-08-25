@@ -5,7 +5,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://bhfl-frontend-tad3.vercel.app/",
+    origin: "https://bhfl-frontend-tad3.vercel.app",
   })
 );
 
